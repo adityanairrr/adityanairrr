@@ -16,7 +16,7 @@ I am a result-oriented Data Scientist with a strong technical foundation and a p
 - **Visualisations:** -  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 - **Tools:** -  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 - **Machine Learning:** -   ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white),Predictive Modeling
-- **Deep Learning:** -  ![Neural Networks](https://img.shields.io/badge/Neural_Networks-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) , currently exploring TensorFlow/PyTorch
+- **Deep Learning:** -  ![Neural Networks](https://img.shields.io/badge/Neural_Networks-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)  currently exploring ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ---
 
