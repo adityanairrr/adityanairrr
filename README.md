@@ -11,12 +11,12 @@ I am a result-oriented Data Scientist with a strong technical foundation and a p
 ---
 
 ## 🛠 My Toolbox
-- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Libraries:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), NumPy, Matplotlib, Seaborn
-- **Visualisations:** PowerBI , Tablaeu
-- **Tools:** Git, ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white), Google Colab
-- **Machine Learning:** Scikit-Learn (Regression, Classification, Clustering),Predictive Modeling
-- **Deep Learning:** Neural Networks (ANNs), currently exploring TensorFlow/PyTorch
+- **Languages:** -  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- **Libraries:** -  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![Seaborn](https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- **Visualisations:** -  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+- **Tools:** -  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+- **Machine Learning:** -   ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white),Predictive Modeling
+- **Deep Learning:** -  ![Neural Networks](https://img.shields.io/badge/Neural_Networks-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) , currently exploring TensorFlow/PyTorch
 
 ---
 
@@ -39,7 +39,7 @@ live applications.
 ---
 
 ## 📈 My GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=[adityanairrr]&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=adityanairrr&show_icons=true&theme=radical)
 
 ---
 
