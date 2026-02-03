@@ -1,5 +1,6 @@
 # Hi there, I'm Aditya Nair 👋
-**Data Scientist | Machine Learning Engineer | AI Trainee**
+**Data Scientist | Machine Learning Engineer | AI Trainee**  
+
 I am a result-oriented Data Scientist with a strong technical foundation and a passion for turning complex data into actionable business insights. I bridge the gap between engineering logic and strategic business decision-making.
 
 🎓 Currently pursuing: MBA in Data Science at Manipal University Jaipur.
