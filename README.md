@@ -12,9 +12,9 @@ I am a result-oriented Data Scientist with a strong technical foundation and a p
 
 ## 🛠 My Toolbox
 - **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Libraries:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white), NumPy, Matplotlib, Seaborn
 - **Visualisations:** PowerBI , Tablaeu
-- **Tools:** Git, Jupyter Notebooks, Google Colab
+- **Tools:** Git, ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white), Google Colab
 - **Machine Learning:** Scikit-Learn (Regression, Classification, Clustering),Predictive Modeling
 - **Deep Learning:** Neural Networks (ANNs), currently exploring TensorFlow/PyTorch
 
@@ -39,7 +39,7 @@ live applications.
 ---
 
 ## 📈 My GitHub Stats
-![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=[adityanairrr]&show_icons=true&theme=radical)
+![Your Stats](https://github-readme-stats.vercel.app/api?username=[adityanairrr]&show_icons=true&theme=radical)
 
 ---
 
